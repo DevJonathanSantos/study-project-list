@@ -1,0 +1,13 @@
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\bin\Debug\netcoreapp3.1\MyListProject.exe
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\bin\Debug\netcoreapp3.1\MyListProject.deps.json
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\bin\Debug\netcoreapp3.1\MyListProject.runtimeconfig.json
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\bin\Debug\netcoreapp3.1\MyListProject.runtimeconfig.dev.json
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\bin\Debug\netcoreapp3.1\MyListProject.dll
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\bin\Debug\netcoreapp3.1\MyListProject.pdb
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\obj\Debug\netcoreapp3.1\MyListProject.csprojAssemblyReference.cache
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\obj\Debug\netcoreapp3.1\MyListProject.csproj.CoreCompileInputs.cache
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\obj\Debug\netcoreapp3.1\MyListProject.AssemblyInfoInputs.cache
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\obj\Debug\netcoreapp3.1\MyListProject.AssemblyInfo.cs
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\obj\Debug\netcoreapp3.1\MyListProject.dll
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\obj\Debug\netcoreapp3.1\MyListProject.pdb
+C:\Users\jojor\OneDrive\Desktop\Study\MyProjects\MyListProject\MyListProject\obj\Debug\netcoreapp3.1\MyListProject.genruntimeconfig.cache
